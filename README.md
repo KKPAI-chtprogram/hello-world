@@ -1,4 +1,4 @@
-##* Welcome to* 
+## Welcome to
 ## The Community Housing and Training (CHT) Center
 
 'For a  comprehensive, innovative and responsive program in today's complex driven environment with the provision of educational services as well as livelihood skills training and values formation for strong faith in God and self-worth as human being with dignity.'
