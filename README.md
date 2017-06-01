@@ -62,8 +62,6 @@
 
 ' The **Bookkeeper** will be responsible for the preparation of the general accounting records, preparation of vouchers and forms and other financial documents. He/She will directly report and be accountable to the Finance Officer.'
 
-' **Community-based Literacy Facilitators / Skills Trainers** will be responsible for the conduct of the literacy classes and vocational skills training classes and in the implementation of various basic and advanced literacy and entrepreneurship courses. They will be responsible in monitoring the performance of the trainees. They will directly report and be accountable to the Project Officer.'
-
 ' **Supervising Engineer** will be hired as part-time engineer and shall be responsible for the construction of the Community Literacy Resource Center particularly the supervision of all unskilled laborers. He/She shall be responsible for ensuring that construction pace follows the timetable and materials used are all in accordance with the agreed specifications. Attendance of workers/laborers as counterpart of the community will be checked.'
 
 ## Program Staff
@@ -198,7 +196,7 @@ The ** Values Formation**
 
 ** v.	Reading and Writing
 
-' **Reading**: This course provides practice in reading comprehension, fluency and speed. Materials used in this course range from manual instruction for livelihood/technical skills training kits, stories (History of Prophets or …) and compositions written by students. This course will also include practice in reading aloud.'
+' **Reading**: This course provides practice in reading comprehension, fluency and speed. Materials used in this course range from manual instruction for livelihood/technical skills training kits, stories (History) and compositions written by students. This course will also include practice in reading aloud.'
 
 ' **Writing**: Students in this course will improve their writing fluency, skill and speed. Taught in conjunction with ESL I and II, Reading and Speech, Students will focus on sentence structure, paragraph development and the presentation of a written argument. Subject matter can range from experience and personal entries in a journal to current events.'
 
@@ -326,13 +324,13 @@ x.	** Leadership Counselling
  
 ' With our collective efforts and your generous donations towards the Programs and Projects of the Community Housing and Training (CHT) Center, a truly responsive programs for the needy sectors of our society, we could HELP the dignity of poor homeless families, SAVE the children and youth from the threats of exploitation, GIVE A NEW HOPES for children and their families through education and other social services.'
  
-' I am appealing with prayers and hope for a support opportunities for our programs and projects that could help our low-income earner families particularly the poorest of the poor, less in education, unskilled, living with extended relatives and no permanent house in the southern part of the Philippines particularly in this city and neighboring areas.'
+' I am appealing with prayers and hope for a support opportunities for our programs and projects that could help our low-income earner families particularly the conflict affected families most economically, occupationally and educationally disadvantaged, living with extended relatives and no permanent house in this city and neighboring areas.'
  
 ' I am one of the Public School Teachers and Chief Executive Officer of the COMMUNITY HOUSING AND TRAINING (CHT) CENTER.'
  
 ' Before I joined government service in 2007, I have been College Professor of Cotabato City State Polytechnic College, Mindanao Capitol College, Headstart College of Criminology, SKIA Foundation College School Principal of SKI Academy, Co-Founder and Coordinator of UKPU Urban Poor Association and BOD’s Chairman and CEO KK Peace Advocates, Incorporated.'
  
-' The emergence of the COMMUNITY HOUSING AND TRAINING (CHT) PROGRAM is out of our deepest concerns on the poor sectors of our society and through my experiences and felt needs since my stay in the communities of informal settlers.'
+' The emergence of the COMMUNITY HOUSING AND TRAINING (CHT) PROGRAM is out of our deepest concerns on the poor sectors of our society and through my experiences and felt needs since my stay with the communities of informal settlers.'
  
 ' Until now, we have generous individuals, friends within the community support our programs, however due to the overall cumulative effect of the economy, we have been unable to secure the essential funding for the Community Housing and Training (CHT) Programs and Projects.'
  
@@ -362,7 +360,7 @@ Bagua-II, Cotabato City 9600, Philippines
 
 # Fundraising Story
 
-' Weʼre raising £2,000 to help with the costs involved in Community Housing and Training (CHT) Program. Towards materials needed to provide Occupational Skills Training as well as Basic Educational Services, Leadership Development Counseling and Values Formation.'
+' Weʼre raising £20,000 to help with the costs involved in Community Housing and Training (CHT) Program. Towards materials needed to provide Occupational Skills Training as well as Basic Educational Services, Leadership Development Counseling and Values Formation.'
  
 Story
  
@@ -412,7 +410,7 @@ Story
  
 ' Paypal.Me/Sariul/Amount'
 
-Account Name:          **AYUB MALANG SARIUL**'                                                                                      
+'Account Name:          **AYUB MALANG SARIUL**'                                                                                      
 'Account Number:        **5107727274**'                                                                                               
 'Bank’s Name:           **LAND BANK OF THE PHILIPPINES**'                                                                             
 'Branch:                **Magallanes Branch**'                                                                                       '
