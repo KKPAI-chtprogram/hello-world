@@ -33,6 +33,38 @@
 
 'The program which we ENVISION is **COMPREHENSIVE** (*means programs that are complementary to each other in a typical community from educational, economic to social services*) and **INNOVATIVE** (*programs’ approaches which are more innovative, like; approaches to educational services outside of the formal school, It introduces changes and new ideas which are believed to be effective in today’s complex driven environment*).'
 
+# About the CHT Program
+
+'**The Emergence of Community Housing and Training (CHT) Program'
+ 
+'I am one of the **Public School Teachers**  and **Chief Executive Officer** of the Community Housing and Training (CHT) Program.'
+ 
+'Before I joined government service in 2007, I have been **College Professor** of Cotabato City State Polytechnic College, Mindanao Capitol College, Headstart College of Criminology, SKIA Foundation College, **School Principal** of SKI Academy, **Co-Founder and Coordinator** of UKPU Urban Poor Association and BOD’s **Chairman and CEO** KK Peace Advocates, Incorporated.'
+ 
+'What prompted me interested to be of service to the needs and concerns of the poor sector of our society particularly those real victims of man-made calamity especially of armed conflict mostly innocent children, youth and their families, is out of my first hand experience and feelings during my stay in areas mostly populated by this sector particularly in conflict affected areas in some part of North Cotabato, Maguindanao and in some barangays in this city where they are forced to evacuate and lived with their relatives.'
+  
+'During my stay in these areas, I witnessed the condition of the poor, the internally displaced families which can be described as BACKWARD, CONFUSED, DEPRESSED and MARGINALIZED. Their situation is wanting and challenging. THIS IS THE CONTEXT WHEREBY I DECIDED TO DEVOTE MY EXTRA TIMES, EFFORTS AND INITIATIVES TO THE BEST I COULD IN THE SERVICE TO THE NEEDS OF THIS SECTOR.'
+  
+'I observed that the children are the most vulnerable and affected sector of the society. I saw the need to develop a program that will respond to the needs of the children, particularly on the aspect of education, housing for the homeless families who are the victims and collateral damage of armed conflict, livelihood/occupational skills training for the unskilled families and youth, values formation for individual’s self-worth as human beings.'
+  
+'At the outset, I conceptualized the program and invited some friends for a table discussion and eventually supported the program after they have understood the very objective of the program.'
+ 
+'**The Emergence of Community Housing and Training (CHT) Program'
+  
+'So the Community Housing and Training (CHT) Program emerged. The CHT Program can simply be described as **COMPREHENSIVE**;  programs that are complementary to each other in a typical community from educational, economic to social services, and **INNOVATIVE**; something that is new and original, programs’ approaches to educational services outside of the formal school, It introduces changes and new ideas which are believed to be effective in today’s complex driven environment.'
+
+# Program Summary
+ 
+'The Community Housing and Training (CHT) Program initiates a low-cost housing project in the targeted area at Barangay Tamontaka 5, Cotabato City for its homeless member-beneficiaries and classified as low-income earners; the poor who were affected and displaced because of the armed conflict, living with relatives and informal settlers residing in the highly congested poor areas which could hardly be called a homes in this city.'
+ 
+'The CHT Program will also provide OCCUPATIONAL SKILLS TRAINING for unskilled individuals and members of the family in order to enhance and to develop their capabilities and skills to augment their family income as well as BASIC EDUCATIONAL SERVICES outside of the formal school for less in education and school-age children and LEADERSHIP DEVELOPMENT COUNSELING and VALUES FORMATION for strong faith in God and individual's self-worth and dignity as human being and can be productive members of the society.'
+ 
+'This proposal budget in the amount of PhP 1,704,000.00 for Non-Housing and Administrative Components of the CHT Program will be sourced out in the form of solicitation for program’s assistance to generous and interested Donors, who are willing to help us for these charitable activities. The said assistance will be ESSENTIAL and PRIMARY part of our program that permits our efforts in the field of SKILLS TRAINING, EDUCATION, SOCIAL SERVICES, COUNSELING and VALUES FORMATION activities.'
+
+# Program's Vision
+
+'The program which we ENVISION is COMPREHENSIVE;  programs that are complementary to each other in a typical community from educational, economic to social services, and INNOVATIVE; something that is new and original, programs’ approaches to educational services outside of the formal school, It introduces changes and new ideas which are believed to be effective in today’s complex driven environment.'
+
 # Beneficiaries
 
 ' By raising the educational achievements of the poor illiterate population, the program will contribute to poverty alleviation through the inculcation of self-reliance and self-help capacities enabling them to participate in productive activities manage their limited resources better and reduce their dependencies on welfare and dole-outs. Increased functional literacy among parents would also improve school retention rate among their children and ensure that their children remain in school and attain higher levels of learning. In general terms, children whose parents have at least a basic education tend to do better in school than children whose parents have had little or no education. Studies have also shown a high correlation on literacy and education to lower birth rates, improve family health care, lower infant and maternal mortality rates.'
