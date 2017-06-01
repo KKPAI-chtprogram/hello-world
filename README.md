@@ -1,14 +1,14 @@
 ## Welcome to Community Housing and Training (CHT) Center
 
-'The COMMUNITY HOUSING AND TRAINING (CHT) CENTER  for a  comprehensive, innovative and responsive program in today's complex driven environment with the provision of educational services as well as livelihood skills training and values formation for strong faith in God and self-worth as human being with dignity.'
+'For a  comprehensive, innovative and responsive program in today's complex driven environment with the provision of educational services as well as livelihood skills training and values formation for strong faith in God and self-worth as human being with dignity.'
 
-' The COMMUNITY HOUSING AND TRAINING (CHT) PROGRAM aims to provide access to basic education among the children, functional literacy, and livelihood for the parents and community-based education and learning facilities.'
+' The Community Housing and Training (CHT) Program aims to provide access to **basic education** among the children, **functional literacy**, and **livelihood** for the parents and **community-based education** and **learning facilities**.'
 
 ' It is an initiative that vigorously complements the overall thrusts and efforts to strengthen the basic education program of the government and particularly in the ARMM.'
 
 'The CHT Program emerged  out of our concerns on the  experiences and felt needs of some sectors of the society; the conflict affected families most economically, occupationally and educationally disadvantaged. '  
 
-# Program and Project Rationale
+# Program Rationale
 
 'The prevailing condition of the educational system in the Autonomous Region in Muslim Mindanao (ARMM) paints a vivid picture that it lags behind in various aspects compared to the other administrative regions in the Philippines.'
 
@@ -24,17 +24,17 @@
 
 'This dismal state of education in ARMM is equally true in most parts of its component provinces - Maguindanao, Lanao del Sur, Sulu, Tawi-Tawi and Basilan. In fact, 21% of its 2,445 Barangays are without schools, which deprive the constituency of access to education.'
 
-'**Hence, this COMMUNITY HOUSING AND TRAINING (CHT) PROGRAM project proposal aims to provide access to basic education among the children, functional literacy, and livelihood for the parents and community-based education and learning facilities. It is an initiative that vigorously complements the overall thrusts and efforts to strengthen the basic education program of the government and particularly in the ARMM.**'
+'**Hence, this COMMUNITY HOUSING AND TRAINING (CHT) PROGRAM aims to provide access to basic education among the children, functional literacy, and livelihood for the parents and community-based education and learning facilities. It is an initiative that vigorously complements the overall thrusts and efforts to strengthen the basic education program of the government and particularly in the ARMM.**'
 
-'The **CHT Program** will also provide **OCCUPATIONAL SKILLS TRAINING** for unskilled individuals and members of the family in order to enhance and to develop their capabilities and skills to augment their family income as well as **BASIC EDUCATIONAL SERVICES** outside of the formal school for less in education and school-age children and **LEADERSHIP DEVELOPMENT COUNSELING** and **VALUES FORMATION** for strong faith in God and individual's self-worth and dignity as human being and can be productive members of the society.'
+'The **CHT Program** will also provide **LEADERSHIP DEVELOPMENT COUNSELING** and **VALUES FORMATION** for strong faith in God and individual's self-worth and dignity as human being and can be productive members of the society.'
 
-'This proposal budget in the amount of **PhP 1,704,000.00** for Non-Housing and Administrative Components of the CHT Program will be sourced out in the form of solicitation for program’s assistance to generous and interested Donors, who are willing to help us for these charitable activities. The said assistance will be  **ESSENTIAL** and **PRIMARY** part of our program that permits our efforts in the field of **SKILLS TRAINING, EDUCATION, SOCIAL SERVICES, COUNSELING and VALUES FORMATION activities**.'
+'This proposal budget in the amount of **PhP 1,704,000.00** for Administrative Components of the CHT Program will be sourced out in the form of solicitation for program’s assistance to generous and interested Donors, who are willing to help us for these charitable activities. The said assistance will be  **ESSENTIAL** and **PRIMARY** part of our program that permits our efforts in the field of **SKILLS TRAINING, EDUCATION, SOCIAL SERVICES, COUNSELING and VALUES FORMATION activities**.'
 
-'The program which we ENVISION is **COMPREHENSIVE** (*means programs that are complementary to each other in a typical community from educational, economic to social services*) and **INNOVATIVE** (*something that is new and original, programs’ approaches which are more innovative than those of their competitions, like; approaches to educational services outside of the formal school, It introduces changes and new ideas which are believed to be effective in today’s complex driven environment*).'
+'The program which we ENVISION is **COMPREHENSIVE** (*means programs that are complementary to each other in a typical community from educational, economic to social services*) and **INNOVATIVE** (*programs’ approaches which are more innovative, like; approaches to educational services outside of the formal school, It introduces changes and new ideas which are believed to be effective in today’s complex driven environment*).'
 
 # Beneficiaries
 
-' By raising the educational achievements of the poor illiterate population, the project will contribute to poverty alleviation through the inculcation of self-reliance and self-help capacities enabling them to participate in productive activities manage their limited resources better and reduce their dependencies on welfare and dole-outs. Increased functional literacy among parents would also improve school retention rate among their children and ensure that their children remain in school and attain higher levels of learning. In general terms, children whose parents have at least a basic education tend to do better in school than children whose parents have had little or no education. Studies have also shown a high correlation on literacy and education to lower birth rates, improve family health care, lower infant and maternal mortality rates.'
+' By raising the educational achievements of the poor illiterate population, the program will contribute to poverty alleviation through the inculcation of self-reliance and self-help capacities enabling them to participate in productive activities manage their limited resources better and reduce their dependencies on welfare and dole-outs. Increased functional literacy among parents would also improve school retention rate among their children and ensure that their children remain in school and attain higher levels of learning. In general terms, children whose parents have at least a basic education tend to do better in school than children whose parents have had little or no education. Studies have also shown a high correlation on literacy and education to lower birth rates, improve family health care, lower infant and maternal mortality rates.'
 
 ' The identification of target groups (learners) will be undertaken by means of a literacy mapping and the interagency consultative process. Those to be selected are the areas with high literacy rates, low participation rate in schools and high incidence of poverty.'
 
@@ -46,11 +46,11 @@
 
 ' Priority consideration should be given to girls and women from the poorest households and members of cultural minority groups.'
 
-# Project Management &  Structure
+# Program Management &  Structure
 
-' The project will be administered and managed by the following core staff:'
+' The program will be administered and managed by the following core staff:'
 
-' KKPAI-CHT Program represented by its **Chief Executive Officer** will be the organization who will be officially relating to **Donor**. It shall be responsible for the over-all implementation of the COMMUNITY HOUSING AND TRAINING PROGRAM'S PROJECT and shall be responsible in coordinating, monitoring and assessing the Project in accordance with the prescribed and agreed conditions. He will directly be accountable in providing reports incorporating the highlights, problems encountered and progress of the project.'
+' CHT Program represented by its **Chief Executive Officer** will be the organization who will be officially relating to **Donor**. It shall be responsible for the over-all implementation of the Community Housing and Training Programs and Projects and shall be responsible in coordinating, monitoring and assessing the Project in accordance with the prescribed and agreed conditions. He will directly be accountable in providing reports incorporating the highlights, problems encountered and progress of the project.'
 
 ' The **Project Officer** will be responsible for the operations and management of the CHT Program's Project components. Will monitor and evaluate the activities ensure the smooth implementation of the project. Will coordinate with stakeholders in the establishments of partnership. Will report directly and be accountable to the Chief Executive Officer regarding the status and progress of the project. Specifically, the project officer shall provide technical support and assistance in the area of literacy implementation and skills development, if and when necessary.'
 
@@ -77,6 +77,8 @@
 ** One (1) instructor**
 
 ' •	to teach Math, Computer Laboratory and Analytical Thinking.'
+
+**Skills Trainers** will be responsible for the conduct of the vocational skills training classes and in the implementation of various  entrepreneurship courses. '
 
 ** One (1) Counselor**
 
